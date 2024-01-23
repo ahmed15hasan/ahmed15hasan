@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Vuejs, Laravel, Lumen, Docker**
 
-- 📫 How to reach me **ahmedhasan949@gmail.com, +4917687841568**
+- 📫 How to reach me  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
