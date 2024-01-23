@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmed Ali</h1>
 <h3 align="center">Experienced PHP Laravel and JavaScript Developer Focused on Crafting Robust and Scalable Web Solutions</h3>
 
-- 🔭 I’m currently working on [Connection Cloud Marketplace](https://www.connection.com/)
-
 - 🌱 I’m currently learning **ReactJS, NodeJS, Python**
 
 - 💬 Ask me about **Vuejs, Laravel, Lumen, Docker**
