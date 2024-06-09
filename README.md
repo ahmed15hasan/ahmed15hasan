@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ahmed Ali</h1>
 <h3 align="center">Experienced PHP Laravel and JavaScript Developer Focused on Crafting Robust and Scalable Web Solutions</h3>
 
-- 🌱 I’m currently learning **ReactJS, NodeJS, Python**
+- 🌱 I’m currently learning **ReactJS, NodeJS**
 
-- 💬 Ask me about **Vuejs, Laravel, Lumen, Docker**
+- 💬 Ask me about **Vuejs, Laravel, Lumen, Django, FastAPI, Docker**
 
 - 📫 How to reach me  
 
