@@ -11,7 +11,7 @@
 
 <h3 align="left">📫 Connect with me:</h3> 
 <p align="left">  
- <a href="https://www.linkedin.com/in/ahmed-ali-38039256/"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg"  width=85/></a> <b>Email:ahmedhasan949@gmail.com </b>
+ <a href="https://www.linkedin.com/in/ahmed-ali-38039256/"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg"  width=85/></a>  
 </p>
  
 <h3 align="left">Languages and Tools:</h3>
